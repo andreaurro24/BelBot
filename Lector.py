@@ -1,3 +1,5 @@
+#Se debe agregar el pip install easyocr
+
 import easyocr
 from google.colab import files
 
